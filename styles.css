@@ -44,9 +44,10 @@ table {
 .profile-img {
     width: 250px;
     height: 250px;
-    border-radius: 50%;
+    border-radius: 70%;
     border: 5px solid #3f085b;
     box-shadow: 0px 5px 5px #333333;
+    margin-left: 15%;
 }
 .detail {
     background-color:whitesmoke;
